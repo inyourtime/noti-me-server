@@ -1,0 +1,24 @@
+*.env
+
+tmp
+# *.sh
+
+.DS_Store
+# .vscode/
+*.log
+
+# server
+
+test_result/
+
+*.exe
+
+docs/docs.go
+docs/swagger.json
+docs/swagger.yaml
+
+files
+
+config.yaml
+
+bin/
